@@ -1,0 +1,25 @@
+.line {
+    font-weight: bolder;
+}
+.financ {
+    color: navy;
+    font-size: 17px;
+    font-family: Calibri;
+}
+
+.mortage {
+    color: green;
+    font-size: 15px;
+    font-family: Calibri;
+}
+#background {
+background-color: yellow;
+}
+#text1 {
+    font-style: oblique;
+    font-family: Calibri;
+    text-indent: 42px;
+    }
+ .line-br {
+    line-height: 0mm;
+ }
